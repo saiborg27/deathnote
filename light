@@ -1,2 +1,3 @@
-echo 'print("I'm the new god of this world")' > light
+echo 'print("I'm the new god of this world")' >> echo 'print("I'm KIRA")
+
 
